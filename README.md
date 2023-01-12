@@ -1,6 +1,7 @@
 # Google Charts Demo
 This project demonstrates the use of the Google Chart API which is an interactive web service that creates graphical charts from user-supplied data.
 Here, we scrape the data from https://music.apple.com/browse/top-charts/songs to get the top trending songs and artists.
+I have also added a few APIs to fetch the data
 
 ## Web Page Design
 
