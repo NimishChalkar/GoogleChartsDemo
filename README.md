@@ -5,7 +5,7 @@ I have also added a few APIs to fetch the data
 
 ## Web Page Design
 
-**Flask** – It’s a python web framework built for rapid development. It provides support for API.
+**Flask** – It’s a python web framework built for rapid development.
 
 **Mongodb** - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 
