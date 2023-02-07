@@ -5,7 +5,7 @@ from pymongo import MongoClient
 import certifi
 import urllib
 
-mongouri = "mongodb+srv://nimish:"+urllib.parse.quote("Pass@123")+"@cluster0.7p9xsiz.mongodb.net/?retryWrites=true&w=majority"
+mongouri = "mongodb+srv://nimish:"+urllib.parse.quote("Password")+"@cluster0.7p9xsiz.mongodb.net/?retryWrites=true&w=majority"
 client = MongoClient(mongouri, tlsCAFile=certifi.where())
 db = client.get_database('topsongs')
 records = db.music
